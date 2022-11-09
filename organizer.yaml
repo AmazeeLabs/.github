@@ -1,0 +1,15 @@
+repositories:
+  default:
+    branches:
+      main:
+        enforce_admins: true
+
+      dev:
+        enforce_admins: true
+
+      stage:
+        enforce_admins: true
+
+      prod:
+        enforce_admins: true
+
