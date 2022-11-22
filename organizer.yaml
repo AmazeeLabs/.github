@@ -1,5 +1,8 @@
 repositories:
   default:
+    teams:
+      tech-team: Admin
+
     branches:
       main:
         enforce_admins: true
