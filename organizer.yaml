@@ -1,7 +1,13 @@
 repositories:
   default:
+    features:
+      has_issues: true
+      has_wiki: false
+      has_projects: true
+      has_downloads: true
+
     teams:
-      tech-team: Admin
+      tech-team: admin
 
     branches:
       main:
