@@ -1,4 +1,6 @@
-# Amazee Labs
+# Amazee Labs is now part of amazee.io
 
-If you're interested in working with us, head over to our [careers](https://careers.amazeelabs.com/) page to find out if we have any open positions matching your expertise.
+This Github organisation is parked.
+
+Find out more about [amazee.io](https://amazee.io) and the [acquisition](https://www.amazee.io/blog/post/amazeeio-acquires-amazeelabs).
 
